@@ -8,7 +8,7 @@ fn main() {
         println!("Input the string that you want to analyze");
         println!("Type '{exit_command}' to exit\n");
 
-        // took a peek at ../The-rust-book/guessing_game code to get this
+        // took a peek at ../../The-rust-book/guessing_game code to get this
         io::stdin()
             .read_line(&mut analyze_data)
             .expect("Failed to read line");
