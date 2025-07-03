@@ -1,0 +1,1 @@
+/home/byson94/Documents/Programming/learning-rust/projects/session_based_todo/target/debug/session_based_todo: /home/byson94/Documents/Programming/learning-rust/projects/session_based_todo/src/main.rs
